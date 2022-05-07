@@ -1,2 +1,2 @@
 # react-curso
-Cursos e treinamentos
+Next.js e React  - Curso Completo - Aprenda com Projetos
