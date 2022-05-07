@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+.red{
+  background-color: crimson;
+}
+.blue{
+  background-color:dodgerblue;
+}
