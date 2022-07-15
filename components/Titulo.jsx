@@ -1,5 +1,5 @@
 /*Nomes de componentes, que não representam página deve ter a notação da primeira letra maiúscula.
-os que são somente arquivos podem ter somente letras mminúsculas*/
+os que são somente arquivos podem ter somente letras minúsculas*/
 export default function Titulo(info){
     console.log(info)
     return info.corte ?(/*se houver a propriedade CORTE*/
